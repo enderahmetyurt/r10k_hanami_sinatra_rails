@@ -76,6 +76,10 @@ ROUTES_PER_LEVEL :: The number of routes in each level (default: 10)
 
 Total number of routes in largest application is ROUTES_PER_LEVEL**LEVELS.
 
+= NOTES
+
+It forked from https://github.com/jeremyevans/r10k. Made benchmarks on MacBook Pro (Retina, 13-inch, Early 2015) 2,7 GHz Dual-Core Intel Core i5 16 GB 1867 MHz DDR3
+
 = License
 
 MIT
